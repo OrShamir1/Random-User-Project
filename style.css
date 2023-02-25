@@ -1,0 +1,74 @@
+body{
+    margin:auto ;
+    background-color: #F1DBBF;
+}
+h1{
+    text-align: center;
+    background-color: #AA5656;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 2%;
+    padding-bottom: 3%;
+    color: aliceblue;
+    font-family: 'Pacifico', cursive;
+    font-size: 3em;
+}
+.user-container{
+
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+#profile-pic{
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-left: 1em;
+}
+.name{
+    display: inline-block;
+    vertical-align: middle;
+    font-family: 'Tilt Neon', cursive;
+    font-size: 3em;
+    color: black;
+    margin-left: 2%;
+}
+#quote-text{
+    display: inline-block;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin-left: 1em;
+    font-family: 'Kalam', cursive;
+    font-size: 2em;
+    word-wrap: break-word;
+    
+}
+#kenya{
+    font-family: 'Yellowtail', cursive;
+    position: absolute;
+    font-size: 2em;
+    display: inline-block;
+    text-align: center;
+}
+#pokemon{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    font-family: 'Tilt Neon', cursive;
+    font-size: 2em;
+    display: inline-block;
+}
+#about{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    font-family: 'Raleway', sans-serif;
+}
+.friends-container{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    font-family: 'Tilt Neon', cursive;
+}
+li{
+    display: inline-block;
+    margin-right: 5px;
+}
